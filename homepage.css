@@ -1,0 +1,58 @@
+
+
+
+
+/*
+The style for the fonts and background color
+*/
+.homeBody{
+    font-family: 'Tilt Neon', cursive;
+    background-color: rgb(196, 121, 118);
+    color: antiquewhite;
+
+}
+
+/*
+All the paragraphs are stylized to resemble a header
+*/
+.pSec1{
+    font-weight: bold;
+}
+
+.pSec2{
+    font-weight: bold;
+}
+
+.pSec3{
+    font-weight: bold;
+}
+
+.pSec4{
+    font-weight: bold;
+}
+
+.pSec5{
+    font-weight: bold;
+}
+
+.pSec6{
+    font-weight: bold;
+}
+
+.pSec7{
+    font-weight: bold;
+}
+
+.pSec8{
+    font-weight: bold;
+}
+
+.pSec9{
+    font-weight: bold;
+}
+
+.pSec10{
+    font-weight: bold;
+}
+
+
